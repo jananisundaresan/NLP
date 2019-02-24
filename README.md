@@ -8,3 +8,4 @@ Chatbot are messenger systems where the bot replies to the user's input. There a
 
 Echo Bot: It sends back exactl the same reply as the user.
 Personality Q & A Bot: it responds based on the user questions.
+Memory Check: Checking chatbot's memory.
